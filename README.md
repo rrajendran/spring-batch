@@ -1,3 +1,7 @@
+Status
+======
+[![Build Status](https://travis-ci.org/rrajendran/spring-batch.svg)](https://travis-ci.org/rrajendran/spring-batch)
+
 spring-batch
 ============
 

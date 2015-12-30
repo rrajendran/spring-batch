@@ -1,9 +1,0 @@
-#bin folders
-target/
-
-#eclipse 
-.project
-.settings
-
-#java
-.class
